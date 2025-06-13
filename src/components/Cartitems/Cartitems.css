@@ -17,7 +17,7 @@
     font-weight: 600;
 }
 .cartitems-format{
-    font-size: 3vh;
+    font-size: 13px;
     font-weight: 500;
 }
 .carticon-product-icon{
@@ -102,7 +102,7 @@
         grid-template-columns: 0.5fr 3fr 0.5fr 0.5fr 0.5fr 0.5fr;
         gap: 10px;
         padding: 10px 0;
-        font-size: 15px;
+        font-size: 13px;
     }
     .carticon-product-icon{
         height: 50px;
