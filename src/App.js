@@ -30,7 +30,7 @@ function App() {
           
           {/* Category Pages - Using the correctly capitalized <ShopCategory /> */}
           <Route path='/mens' element={<ShopCategory banner={men_banner} category = "men"/>}/>
-          <Route path='/womens' element={<ShopCategory banner={women_banner} category = "women"/>}/>
+          <Route path='/womens' element={<ShopCategory banner={women_banner} category = "Women"/>}/>
           <Route path='/kids' element={<ShopCategory banner={kid_banner} category = "kid"/>}/>
           
           {/* Product Page - Standard setup using the route parameter */}
